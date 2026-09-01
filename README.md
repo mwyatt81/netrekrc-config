@@ -24,8 +24,6 @@ git clone https://github.com/mwyatt81/netrekrc-config
 Changes to available configuration options can be done by editing the schema.js file.
 
 ## Authors
-Contributors names and contact info
-
 M. Wyatt
 internetworker911@gmail.com
 
@@ -36,4 +34,4 @@ internetworker911@gmail.com
 
 ## License
 
-This project is licensed under the GNU GPL 3 License - see the LICENSE.txt file for details
+This project is licensed under the Creative Common License - see the LICENSE.txt file for details
